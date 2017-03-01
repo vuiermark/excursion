@@ -1,0 +1,31 @@
+body {
+	background-color: black;
+	text-align: center;
+	font-family: Verdana;
+}
+
+.title h1 {
+	font-size: 50px;
+	color: white;
+}
+
+.coming a {
+	color: Aquamarine;
+	font-size: 16px;
+
+}
+
+.guide h2 {
+	font-weight: 300;
+	font-size: 42px;
+	color: white;
+}
+.guide p {
+	font-size: 21px;
+	color: gray;
+}
+.right {
+	text-align: right;
+	color: gray;
+	font-size: 21px;
+}
